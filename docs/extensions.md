@@ -94,6 +94,10 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
   "url":"/pkg/alsrobot-microbit-makecode-packages/CooCoo",
   "cardType": "package"
 }, {
+  "name": "ALS Robot MiniCruise",
+  "url":"/pkg/alsrobot-microbit-makecode-packages/MiniCruise",
+  "cardType": "package"
+}, {
   "name": "ALS Robot CruiseBit",
   "url":"/pkg/alsrobot-microbit-makecode-packages/CruiseBit",
   "cardType": "package"
